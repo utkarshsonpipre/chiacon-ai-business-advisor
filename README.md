@@ -2,6 +2,10 @@
 
 A production-quality prototype for **Chiacon**, an AI consulting company, built with a modern full-stack architecture. The site includes a professional landing page and a working AI feature: an **AI Use Case Generator** that turns business problems into actionable AI opportunities.
 
+## Live Website
+
+https://chiacon-ai-business-advisor.vercel.app/
+
 ## 1) Project Overview
 
 Chiacon helps organizations identify and implement practical AI solutions. This prototype demonstrates:
@@ -221,6 +225,8 @@ npm run start
 ---
 
 ## 9) Deployment on Vercel
+
+Deployed URL: https://chiacon-ai-business-advisor.vercel.app/
 
 ### Option A: Git-based Deployment (Recommended)
 
